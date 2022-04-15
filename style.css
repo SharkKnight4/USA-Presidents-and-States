@@ -1,0 +1,11 @@
+body{
+    text-align: center;
+    }
+#Top3{
+    background-color: darkgoldenrod;
+}
+#Next3{
+  background-color: darkblue;  
+}
+img { transition: transform .2s; } 
+img:hover { transform: scale(0.9); }
